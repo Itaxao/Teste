@@ -1,0 +1,5 @@
+Regras de derivação.
+
+Teorema(Regra da Potência). Se n for um inteiro positivo positivo e 
+$f(x)=x^n$ então $f'(x)=nx^(n-1)$
+
